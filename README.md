@@ -38,7 +38,7 @@ The firmware may be flashed using either the Arduino IDE or PlatformIO
 * [x] Make an HTTP GET request and wait for response
 * [x] Make an HTTP POST request and wait for response
 * [ ] Serve static websites that can the user can interact
-* [ ] Find and remove Carriaga Return (\r) characters
+* [ ] Find and remove Carriage Return (\r) characters
 * [ ] Replace Arduino's `String` data type with character arrays
 * [ ] Make a readable documentation
 
