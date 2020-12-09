@@ -50,6 +50,10 @@ If you choose to contribute, please put your name in the [Hall Of Fame](HallOfFa
 
 Forks are also welcome, as long as said fork remains free and open source. Failure to do so is a direct infringement of the GPLv3 licence
 
+## Contact me
+
+If you have any questions, project inquiries, or want to contact me directly, feel free to do so at [ezequiel@losko.com.ar](mailto:ezequiel@losko.com.ar).
+
 ## License
 
 This program is licensed under the GNU General Public License v3.0
